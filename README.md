@@ -1,4 +1,6 @@
 # Stock-App
+## About
+Mean App for stimulating real time stock trading.
 
 ## Technology
 1. Frontend developed using Angular JS
