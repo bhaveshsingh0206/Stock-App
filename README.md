@@ -1,16 +1,16 @@
 # Stock-App
 
 ## Technology
-> Frontend developed using Angular JS
-> Backend developed using Node JS
-> Used Material tabs to display company details
-> Finnhub API is used for fetching all the results
-> Portfolio and Watchlist created using browser Local Storage
-> Used Modal windows feature to simulate transactions
-> Facebook and Twitter developer API to share news on Social platforms
-> State management between Search, Portfolio, and Watchlist using Angular libraries
-> Developed using VS Code
-> Deployed on Google Cloud App Engine
+1. Frontend developed using Angular JS
+2. Backend developed using Node JS
+3. Used Material tabs to display company details
+4. Finnhub API is used for fetching all the results
+5. Portfolio and Watchlist created using browser Local Storage
+6. Used Modal windows feature to simulate transactions
+7. Facebook and Twitter developer API to share news on Social platforms
+8. State management between Search, Portfolio, and Watchlist using Angular libraries
+9. Developed using VS Code
+10. Deployed on Google Cloud App Engine
 
 ## Features
 
