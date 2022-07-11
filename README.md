@@ -45,13 +45,17 @@ Mean App for stimulating real time stock trading.
     -   It displays the current worth of the user, that is the sum of the current balance and current worth of all the stocks
     -   This page also displays the current standing of a particular stock and the average amount invested in the stock based on buy price and current price
     
-    ## React Screenshots
+    ## Angular Screenshots
 
 
 
-![Login](Images/1.png)
-![Login](Images/2.png)
-![Login](Images/3.png)
-![Login](Images/4.png)
-![Login](Images/5.png)
+![SS](Images/1.png)
+
+![SS](Images/2.png)
+
+![SS](Images/3.png)
+
+![SS](Images/4.png)
+
+![SS](Images/5.png)
 
