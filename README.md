@@ -1,7 +1,9 @@
 # Stock-App
 ## About
 Mean App for stimulating real time stock trading.
+#### [View the application live](https://csci571-stocksearch-angular.wl.r.appspot.com/portfolio)
 
+#### [View the iOS App](https://drive.google.com/file/d/12tB-w4R6UW7-Xm_sY63b2Yzw_eROFiST/view)
 ## Technology
 1. Frontend developed using Angular JS
 2. Backend developed using Node JS
@@ -42,3 +44,14 @@ Mean App for stimulating real time stock trading.
     -   It displays the current balance in the wallet
     -   It displays the current worth of the user, that is the sum of the current balance and current worth of all the stocks
     -   This page also displays the current standing of a particular stock and the average amount invested in the stock based on buy price and current price
+    
+    ## React Screenshots
+
+
+
+![Login](Images/1.png)
+![Login](Images/2.png)
+![Login](Images/3.png)
+![Login](Images/4.png)
+![Login](Images/5.png)
+
